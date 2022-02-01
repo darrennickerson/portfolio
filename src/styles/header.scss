@@ -1,0 +1,19 @@
+header {
+  height: 150px;
+  width: 100vw;
+  background: black;
+  color: #fff;
+
+  a {
+    color: #fff;
+    font-size: 1.3rem;
+    text-decoration: none;
+  }
+  ul {
+    list-style: none;
+  }
+  li {
+    display: inline;
+    margin-right: 10px;
+  }
+}
